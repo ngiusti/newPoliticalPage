@@ -53,6 +53,7 @@ gulp.task('images', function() {
 
 gulp.task('default', function() {
     console.log('starting default task')
+    require('./server.js');
 })
 
 gulp.task('watch', function() {
