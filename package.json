@@ -4,7 +4,7 @@
   "description": "This is my demo page for my political pages.",
   "main": "index.js",
   "scripts": {
-    "start": "gulp",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nicholas Giusti.",
